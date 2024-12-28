@@ -71,5 +71,5 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 
 ## 💡 Contact
 Feel free to reach out for collaboration or opportunities:
-- **Email**: kavyaseeramsetty@example.com
+- **Email**: kavyaseeramsetty@gmail.com
 - **LinkedIn**: [linkedin.com/in/kavyaseeramsetty](https://www.linkedin.com/in/kavya-seeramsetty-570b4a158/)
