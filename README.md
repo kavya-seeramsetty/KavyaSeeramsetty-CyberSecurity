@@ -1,4 +1,4 @@
-# Hello, I'm Kavya Seeramsetty 👋
+# Hello, I'm Kavya Seeramsetty 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a technology enthusiast with professional experience in software development, RPA (Robotic Process Automation), and cybersecurity. My passion lies in designing secure networks, automating processes, and solving real-world challenges in IT and security domains.
@@ -27,7 +27,9 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 - <b>Active-Directory-Management (User and Group Policy Management)</b>
   - [Authentication and Directory Services](https://github.com/kavya-seeramsetty/Active-Directory-Management/tree/main)
 - <b>Network-Traffic-Analysis-with-tcpdump (Capturing and Analyzing Network Protocols)</b>
-  - [A Beginner's Guide to Monitoring and Analyzing Network Traffic](https://github.com/kavya-seeramsetty/Network-Traffic-Analysis-with-tcpdump)   
+  - [A Beginner's Guide to Monitoring and Analyzing Network Traffic](https://github.com/kavya-seeramsetty/Network-Traffic-Analysis-with-tcpdump)
+- <b>Open-Source-Network-Security-Architecture-for-Enterprises (Designing a Secure Network Infrastructure Using Open-Source Tools and Technologies)</b>
+  - [Focused on designing and implementing a secure network infrastructure using open-source tools for enterprise environments.](https://github.com/kavya-seeramsetty/Open-Source-Network-Security-Architecture-for-Enterprises)   
 ---
 
 ## 🔧 Tools and Technologies
