@@ -60,7 +60,7 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
     <img src="https://img.shields.io/badge/-WireGuard-5A66B1?&style=for-the-badge&logo=wireguard&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVPN-6B8E23?&style=for-the-badge&logo=openvpn&logoColor=white" />
 </div>
----
+
 
 ## 🎓 Certifications
 <div>
