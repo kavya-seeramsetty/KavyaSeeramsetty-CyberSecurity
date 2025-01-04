@@ -67,17 +67,6 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 
 ---
 
-## 🚀 Projects
-| **Project Name**               | **Description**                                                                                           |
-|---------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Home Lab for CCNA**           | Simulated an enterprise network with VLANs, routing protocols, and NAT using Packet Tracer.              |
-| **SOC Automation with Hive**    | Automated SOC workflows for case management, alert triaging, and threat intelligence integration.         |
-| **Active Directory Setup**      | Configured and managed an Active Directory environment with group policies, user roles, and permissions. |
-| **RPA in Food Industry**        | Automated menu management and inventory updates using RPA tools like UiPath.                             |
-| **Cybersecurity Lab**           | Performed network traffic analysis, vulnerability testing, and penetration testing using tools like Kali. |
-
----
-
 ## 💡 Contact
 Feel free to reach out for collaboration or opportunities:
 - **Email**: kavyaseeramsetty@gmail.com
