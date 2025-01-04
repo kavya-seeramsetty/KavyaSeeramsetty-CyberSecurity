@@ -25,7 +25,9 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 - <b>Cisco-Home-Lab-Network-Implementation</b>
   - [Praciting CCNA CONCEPTS](https://github.com/kavya-seeramsetty/Cisco-Home-Lab-Network-Implementation)
 - <b>Active-Directory-Management (User and Group Policy Management)</b>
-  - [Authentication and Directory Services](https://github.com/kavya-seeramsetty/Active-Directory-Management/tree/main) 
+  - [Authentication and Directory Services](https://github.com/kavya-seeramsetty/Active-Directory-Management/tree/main)
+- <b>Network-Traffic-Analysis-with-tcpdump (Capturing and Analyzing Network Protocols)</b>
+  - [A Beginner's Guide to Monitoring and Analyzing Network Traffic](https://github.com/kavya-seeramsetty/Network-Traffic-Analysis-with-tcpdump)   
 ---
 
 ## 🔧 Tools and Technologies
