@@ -33,10 +33,15 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 ---
 
 ## 🔧 Tools and Technologies
+
 ### Networking
 <div>
     <img src="https://img.shields.io/badge/-Packet_Tracer-009639?&style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNS3-1B4E80?&style=for-the-badge&logo=gns3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cumulus_Linux-3C3C6E?&style=for-the-badge&logo=cumulus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nftables-009639?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-009639?&style=for-the-badge&logo=pfsense&logoColor=white" />
 </div>
 
 ### Cybersecurity
@@ -44,14 +49,17 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
     <img src="https://img.shields.io/badge/-Metasploit-007ACC?&style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-5D9CEC?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-StrongSwan-1F354B?&style=for-the-badge&logo=strongswan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PacketFence-4B8BBE?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### Automation
 <div>
     <img src="https://img.shields.io/badge/-UiPath-0078D4?&style=for-the-badge&logo=UiPath&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shuffle_SOAR-4B8BBE?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WireGuard-5A66B1?&style=for-the-badge&logo=wireguard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVPN-6B8E23?&style=for-the-badge&logo=openvpn&logoColor=white" />
 </div>
-
 ---
 
 ## 🎓 Certifications
