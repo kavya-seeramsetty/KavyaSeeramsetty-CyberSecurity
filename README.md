@@ -20,7 +20,7 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 | **Robotic Process Automation (RPA)**          | Designed automated processes for industries using UiPath and other RPA tools.                   |
 
 ---
-<h2>🚀 Featured Projects: Innovating Automation and Cybersecurity</h2>
+<h2>🚀 Featured Projects: Innovating Networking and Cybersecurity Solutions</h2>
 
 - <b>Cisco-Home-Lab-Network-Implementation</b>
   - [Praciting CCNA CONCEPTS](https://github.com/kavya-seeramsetty/Cisco-Home-Lab-Network-Implementation)
