@@ -24,8 +24,8 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 
 - <b>Cisco-Home-Lab-Network-Implementation</b>
   - [Praciting CCNA CONCEPTS](https://github.com/kavya-seeramsetty/Cisco-Home-Lab-Network-Implementation)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Active-Directory-Management (User and Group Policy Management)</b>
+  - [Authentication and Directory Services](https://github.com/kavya-seeramsetty/Active-Directory-Management/tree/main) 
 
 
 ## 🔧 Tools and Technologies
