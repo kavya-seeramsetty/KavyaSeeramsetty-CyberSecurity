@@ -29,7 +29,10 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 - <b>Network-Traffic-Analysis-with-tcpdump (Capturing and Analyzing Network Protocols)</b>
   - [A Beginner's Guide to Monitoring and Analyzing Network Traffic](https://github.com/kavya-seeramsetty/Network-Traffic-Analysis-with-tcpdump)
 - <b>Open-Source-Network-Security-Architecture-for-Enterprises (Designing a Secure Network Infrastructure Using Open-Source Tools and Technologies)</b>
-  - [Focused on designing and implementing a secure network infrastructure using open-source tools for enterprise environments.](https://github.com/kavya-seeramsetty/Open-Source-Network-Security-Architecture-for-Enterprises)   
+  - [Focused on designing and implementing a secure network infrastructure using open-source tools for enterprise environments.](https://github.com/kavya-seeramsetty/Open-Source-Network-Security-Architecture-for-Enterprises)
+- <b>Automated-Vulnerability-Scanning-and-Reporting-Using-Nmap</b>
+  - [Automating network vulnerability scanning using Nmap with Python scripting and scheduling](https://github.com/kavya-seeramsetty/Automated-Vulnerability-Scanning-and-Reporting-Using-Nmap)
+
 ---
 
 ## 🔧 Tools and Technologies
