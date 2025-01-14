@@ -31,7 +31,7 @@ To excel in the cybersecurity and automation fields by leveraging my expertise i
 - <b>Open-Source-Network-Security-Architecture-for-Enterprises (Designing a Secure Network Infrastructure Using Open-Source Tools and Technologies)</b>
   - [Focused on designing and implementing a secure network infrastructure using open-source tools for enterprise environments.](https://github.com/kavya-seeramsetty/Open-Source-Network-Security-Architecture-for-Enterprises)
 - <b>Automated-Vulnerability-Scanning-and-Reporting-Using-Nmap</b>
-  - [Automating network vulnerability scanning using Nmap with Python scripting and scheduling](https://github.com/kavya-seeramsetty/Automated-Vulnerability-Scanning-and-Reporting-Using-Nmap)
+  - [Automating network vulnerability scanning using Nmap with Python scripting and scheduling](https://github.com/kavya-seeramsetty/Automating-network-vulnerability-scanning-using-Nmap-with-Python-scripting-and-scheduling)
 
 ---
 
